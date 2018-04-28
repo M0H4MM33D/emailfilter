@@ -1,5 +1,9 @@
 Hi Dear .
 
+
+Simple script email filtre / HOTMAIL / AOL / YAHOO / ATT / BBOX / CHARTER / cogeco / comcast ...
+
+
 You need to install python 2.7 
 https://www.python.org/
 or
